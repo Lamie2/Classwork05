@@ -1,0 +1,17 @@
+C:\Users\Lamie Memmedli\source\repos\ConsoleApp05\ConsoleApp05\bin\Debug\netcoreapp3.1\ConsoleApp05.exe
+C:\Users\Lamie Memmedli\source\repos\ConsoleApp05\ConsoleApp05\bin\Debug\netcoreapp3.1\ConsoleApp05.deps.json
+C:\Users\Lamie Memmedli\source\repos\ConsoleApp05\ConsoleApp05\bin\Debug\netcoreapp3.1\ConsoleApp05.runtimeconfig.json
+C:\Users\Lamie Memmedli\source\repos\ConsoleApp05\ConsoleApp05\bin\Debug\netcoreapp3.1\ConsoleApp05.runtimeconfig.dev.json
+C:\Users\Lamie Memmedli\source\repos\ConsoleApp05\ConsoleApp05\bin\Debug\netcoreapp3.1\ConsoleApp05.dll
+C:\Users\Lamie Memmedli\source\repos\ConsoleApp05\ConsoleApp05\bin\Debug\netcoreapp3.1\ConsoleApp05.pdb
+C:\Users\Lamie Memmedli\source\repos\ConsoleApp05\ConsoleApp05\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\Lamie Memmedli\source\repos\ConsoleApp05\ConsoleApp05\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\Lamie Memmedli\source\repos\ConsoleApp05\ConsoleApp05\obj\Debug\netcoreapp3.1\ConsoleApp05.csproj.AssemblyReference.cache
+C:\Users\Lamie Memmedli\source\repos\ConsoleApp05\ConsoleApp05\obj\Debug\netcoreapp3.1\ConsoleApp05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lamie Memmedli\source\repos\ConsoleApp05\ConsoleApp05\obj\Debug\netcoreapp3.1\ConsoleApp05.AssemblyInfoInputs.cache
+C:\Users\Lamie Memmedli\source\repos\ConsoleApp05\ConsoleApp05\obj\Debug\netcoreapp3.1\ConsoleApp05.AssemblyInfo.cs
+C:\Users\Lamie Memmedli\source\repos\ConsoleApp05\ConsoleApp05\obj\Debug\netcoreapp3.1\ConsoleApp05.csproj.CoreCompileInputs.cache
+C:\Users\Lamie Memmedli\source\repos\ConsoleApp05\ConsoleApp05\obj\Debug\netcoreapp3.1\ConsoleApp05.csproj.CopyComplete
+C:\Users\Lamie Memmedli\source\repos\ConsoleApp05\ConsoleApp05\obj\Debug\netcoreapp3.1\ConsoleApp05.dll
+C:\Users\Lamie Memmedli\source\repos\ConsoleApp05\ConsoleApp05\obj\Debug\netcoreapp3.1\ConsoleApp05.pdb
+C:\Users\Lamie Memmedli\source\repos\ConsoleApp05\ConsoleApp05\obj\Debug\netcoreapp3.1\ConsoleApp05.genruntimeconfig.cache
